@@ -1,0 +1,8 @@
+/* People Patch palette and display type. Shared components read these tokens. */
+:root {
+  --accent: #136f63;
+  --font-display: 'Instrument Serif', 'Iowan Old Style', Georgia, serif;
+  --display-weight: 400;
+  --display-italic-weight: 400;
+  --display-tracking: -0.01em;
+}
